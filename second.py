@@ -10,4 +10,13 @@ if response.status_code == 200 :
     print("data received")
     print(data)
 else :
+
     print("error in receiving data" , response.status_code)
+
+    print("error in receiving data" , response.status_code)
+
+    print("error in receiving data" , response.status_code)
+
+
+    # added by local automation
+
